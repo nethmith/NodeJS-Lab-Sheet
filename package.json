@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-lab-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nethmith/NodeJS-Lab-Sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nethmith/NodeJS-Lab-Sheet/issues"
+  },
+  "homepage": "https://github.com/nethmith/NodeJS-Lab-Sheet#readme"
+}
